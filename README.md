@@ -1,6 +1,6 @@
 # Discord.js Bot
 
-This is a Discord.js bot developed by Sapphire Devs. It aims to provide a convenient solution for TypeScript users who may be unfamiliar with creating handlers and other TypeScript-specific features.
+This is a Discord.js bot developed by Starnavy Devs. It aims to provide a convenient solution for TypeScript users who may be unfamiliar with creating handlers and other TypeScript-specific features.
 
 ## Features
 
@@ -30,16 +30,15 @@ If you have any improvements or suggestions, you are welcome to contribute to th
 
 You can join Sapphire Devs on the following platforms:
 
-- [InstantGaming Referral](https://www.instant-gaming.com/?igr=sapphiredevs)
-- [SapphireDevs Discord](https://discord.gg/rTT52gJC3J)
-- [Personal Discord](https://discord.gg/TKz7BMwEap)
+- [SapphireDevs Discord](https://discord.gg/discord)
+- [Personal Discord](https://discord.gg/discord)
 
 ## Contributors
 
 Thanks to the following contributors who have made this project possible:
 
 <a href="https://github.com/sapphiredevs/discord/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=sapphiredevs/discord" alt="Contributors" />
+  <img src="https://stg.contrib.rocks/image?repo=starnavydevs/discord" alt="Contributors" />
 </a>
 
 ---
