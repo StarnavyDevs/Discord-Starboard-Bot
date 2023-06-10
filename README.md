@@ -26,12 +26,6 @@ If you have any improvements or suggestions, you are welcome to contribute to th
 2. Make the desired changes or improvements.
 3. Create a pull request with your changes.
 
-## Join Sapphire Devs
-
-You can join Sapphire Devs on the following platforms:
-
-- [SapphireDevs Discord](https://discord.gg/discord)
-- [Personal Discord](https://discord.gg/discord)
 
 ---
 
