@@ -33,14 +33,6 @@ You can join Sapphire Devs on the following platforms:
 - [SapphireDevs Discord](https://discord.gg/discord)
 - [Personal Discord](https://discord.gg/discord)
 
-## Contributors
-
-Thanks to the following contributors who have made this project possible:
-
-<a href="https://github.com/sapphiredevs/discord/graphs/contributors">
-  <img src="https://stg.contrib.rocks/image?repo=starnavydevs/discord" alt="Contributors" />
-</a>
-
 ---
 
 Featured By Project Discord
